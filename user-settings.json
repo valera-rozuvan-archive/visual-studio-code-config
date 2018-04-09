@@ -1,0 +1,10 @@
+{
+  "workbench.startupEditor": "none",
+  "window.restoreWindows": "none",
+  "explorer.openEditors.visible": 0,
+  "editor.rulers": [80, 120],
+  "files.trimTrailingWhitespace": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": true
+}
