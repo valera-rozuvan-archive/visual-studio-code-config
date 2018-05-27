@@ -1,2 +1,1 @@
-# visual-studio-config
-Visual Studio Config
+# Visual Studio Code Config
