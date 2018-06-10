@@ -10,5 +10,6 @@
   "files.autoSave": "off",
   "files.eol": "\n",
   "workbench.colorTheme": "One Monokai",
-  "editor.fontFamily": "'IBM Plex Mono Medium'"
+  "editor.fontFamily": "'IBM Plex Mono Medium'",
+  "explorer.autoReveal": true
 }
