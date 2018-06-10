@@ -4,8 +4,11 @@
   "explorer.openEditors.visible": 0,
   "editor.rulers": [80, 120],
   "files.trimTrailingWhitespace": true,
-  "editor.tabSize": 4,
+  "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "editor.detectIndentation": true,
-  "files.autoSave": "off"
+  "files.autoSave": "off",
+  "files.eol": "\n",
+  "workbench.colorTheme": "One Monokai",
+  "editor.fontFamily": "'IBM Plex Mono Medium'"
 }
