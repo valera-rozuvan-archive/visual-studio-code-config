@@ -12,6 +12,7 @@
   "workbench.colorTheme": "One Monokai",
   "editor.fontFamily": "'IBM Plex Mono Medium'",
   "editor.fontSize": 16,
+  "explorer.confirmDragAndDrop": false,
   "explorer.autoReveal": true,
   "window.zoomLevel": 2,
   "explorer.confirmDelete": false,
