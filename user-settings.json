@@ -14,7 +14,7 @@
   "editor.fontSize": 14,
   "explorer.confirmDragAndDrop": false,
   "explorer.autoReveal": true,
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 0,
   "explorer.confirmDelete": false,
   "typescript.updateImportsOnFileMove.enabled": "never",
   "window.title": "${activeEditorLong}${separator}${rootName}"
