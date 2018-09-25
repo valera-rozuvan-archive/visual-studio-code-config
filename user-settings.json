@@ -1,6 +1,6 @@
 {
   "workbench.startupEditor": "none",
-  "window.restoreWindows": "none",
+  "window.restoreWindows": "all",
   "explorer.openEditors.visible": 0,
   "editor.rulers": [80, 120],
   "files.trimTrailingWhitespace": true,
@@ -11,5 +11,10 @@
   "files.eol": "\n",
   "workbench.colorTheme": "One Monokai",
   "editor.fontFamily": "'IBM Plex Mono Medium'",
-  "explorer.autoReveal": true
+  "editor.fontSize": 16,
+  "explorer.autoReveal": true,
+  "window.zoomLevel": 2,
+  "explorer.confirmDelete": false,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "window.title": "${activeEditorLong}${separator}${rootName}"
 }
