@@ -2,7 +2,7 @@
   "workbench.startupEditor": "none",
   "window.restoreWindows": "all",
   "explorer.openEditors.visible": 0,
-  "editor.rulers": [80, 120],
+  "editor.rulers": [100, 120],
   "files.trimTrailingWhitespace": true,
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
@@ -17,5 +17,7 @@
   "window.zoomLevel": 0,
   "explorer.confirmDelete": false,
   "typescript.updateImportsOnFileMove.enabled": "never",
-  "window.title": "${activeEditorLong}${separator}${rootName}"
+  "window.title": "${activeEditorLong}${separator}${rootName}",
+  "breadcrumbs.enabled": true,
+  "typescript.autoImportSuggestions.enabled": false
 }
