@@ -19,5 +19,6 @@
   "typescript.updateImportsOnFileMove.enabled": "never",
   "window.title": "${activeEditorLong}${separator}${rootName}",
   "breadcrumbs.enabled": true,
-  "typescript.autoImportSuggestions.enabled": false
+  "typescript.suggest.autoImports": false,
+  "javascript.suggest.autoImports": false
 }
