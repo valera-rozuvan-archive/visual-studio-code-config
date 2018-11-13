@@ -20,5 +20,6 @@
   "window.title": "${activeEditorLong}${separator}${rootName}",
   "breadcrumbs.enabled": true,
   "typescript.suggest.autoImports": false,
-  "javascript.suggest.autoImports": false
+  "javascript.suggest.autoImports": false,
+  "window.titleBarStyle": "custom"
 }
