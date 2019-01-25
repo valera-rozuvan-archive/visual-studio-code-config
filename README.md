@@ -10,6 +10,16 @@ Make sure to install these first, restart your VSCode, and then apply the config
 `IBM Plex Mono Medium`.
 2. [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
 
+On some systems, you need to tweak how the font is set in `settings.json`:
+
+```
+  "editor.fontFamily": "'IBM Plex Mono Medium'",
+  
+  //or 
+  
+  "editor.fontFamily": "IBM Plex Mono",
+```
+
 ## VSCode plugins
 
 What I install right away:
