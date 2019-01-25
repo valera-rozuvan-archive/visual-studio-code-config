@@ -10,16 +10,31 @@
   "files.autoSave": "off",
   "files.eol": "\n",
   "workbench.colorTheme": "One Monokai",
-  "editor.fontFamily": "'IBM Plex Mono Medium'",
+  "editor.fontFamily": "IBM Plex Mono",
   "editor.fontSize": 14,
   "explorer.confirmDragAndDrop": false,
   "explorer.autoReveal": true,
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 1,
   "explorer.confirmDelete": false,
   "typescript.updateImportsOnFileMove.enabled": "never",
   "window.title": "${activeEditorLong}${separator}${rootName}",
   "breadcrumbs.enabled": true,
   "typescript.suggest.autoImports": false,
   "javascript.suggest.autoImports": false,
-  "window.titleBarStyle": "custom"
+  "window.titleBarStyle": "custom",
+  "eslint.validate": [
+    {
+      "language": "vue",
+      "autoFix": false
+    },
+    {
+      "language": "html",
+      "autoFix": false
+    },
+    {
+      "language": "javascript",
+      "autoFix": false
+    }
+  ],
+  "python.pythonPath": "/usr/bin/python"
 }
