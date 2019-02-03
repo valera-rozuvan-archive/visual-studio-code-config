@@ -20,6 +20,12 @@ On some systems, you need to tweak how the font is set in `user-settings.json`:
   "editor.fontFamily": "IBM Plex Mono",
 ```
 
+3. Some packages require `GNU global` to be installed. On Debian-like systems get it with:
+
+```
+sudo apt-get install global
+```
+
 ## VSCode plugins
 
 What I install right away:
