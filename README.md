@@ -2,7 +2,7 @@
 
 ## wip has moved
 
-Future work on this repository has moved to the monorepo [valera-rozuvan/dotfiles](https://github.com/valera-rozuvan/dotfiles). This repo is archived for historic purposes (to preserve commit history). Navigate over to [dotfiles/emacs/visual-studio-code-config](https://github.com/valera-rozuvan/dotfiles/tree/main/emacs/visual-studio-code-config) to see updates (if any).
+Future work on this repository has moved to the monorepo [valera-rozuvan/dotfiles](https://github.com/valera-rozuvan/dotfiles). This repo is archived for historic purposes (to preserve commit history). Navigate over to [dotfiles/visual-studio-code](https://github.com/valera-rozuvan/dotfiles/tree/main/visual-studio-code) to see updates (if any).
 
 ## introduction
 
